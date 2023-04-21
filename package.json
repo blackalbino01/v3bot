@@ -1,0 +1,19 @@
+{
+  "name": "v3bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackalbino01/v3bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackalbino01/v3bot/issues"
+  },
+  "homepage": "https://github.com/blackalbino01/v3bot#readme"
+}
